@@ -65,7 +65,7 @@ A curated collection of links about the **Move programming language** with an em
 - [sui-fuzzer (FuzzingLabs × Sui Foundation)](https://github.com/FuzzingLabs/sui-fuzzer)
 - [MoveFuzz](https://getfailsafe.com/top-move-smart-contract-auditing-companies-services-in-2025/)
 
-### Static Analysis & IDEs (MoveBit)
+### Static Analysis & IDEs 
 - [Move Analyzer (Sui)](https://www.movebit.xyz/analyzer)
 - [Move Analyzer (Aptos)](https://www.movebit.xyz/AptosMoveAnalyzer)
 - [Move Formatter](https://www.movebit.xyz/AptosMoveFormatter)
